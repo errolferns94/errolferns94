@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AI ChatBot**
 
-- 🌱 I’m currently learning **Angular , React Native**
+- 🌱 I’m currently learning **Django , React Native**
 
 - 💬 Ask me about **MERN, Android**
 
