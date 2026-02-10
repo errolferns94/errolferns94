@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on **AI ChatBot**
 
-- 🌱 I’m currently learning **Django , React Native**
-
-- 💬 Ask me about **MERN, Android**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **errolferns94@gmail.com**
 
